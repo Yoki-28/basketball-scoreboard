@@ -44,5 +44,8 @@
 - Implement a timer or countdown feature for game tracking.
 - Persist scores using local storage or a backend API.
 
+## Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
 ## Contact
 Created by [Yogesh](https://github.com/Yoki-28) - feel free to reach out!
